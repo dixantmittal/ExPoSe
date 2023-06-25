@@ -1,0 +1,9 @@
+.idea/
+*.xml
+*__pycache__*
+runs/*
+.vscode
+.DS_Store
+data/
+results/
+runs/
